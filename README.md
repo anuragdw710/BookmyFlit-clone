@@ -48,7 +48,7 @@ npx sequelize db:migrate`
 npx sequelize model:generate --name Airport --attributes name:String,address:String,cityId:integer
 ```
 
-## Project Docs
+## Design Docs
 
 # Objective:
 We need to build a backend system that can support different features for an airline company. Our end user is going to be someone who wants to book flights and query about flights so we need a robust system to actually help them give the best experience possible. This doc is solely going to focus on the backend part of the system. We want to prepare the whole backend keeping the fact in mind that the code base should be as maintainable as possible.
