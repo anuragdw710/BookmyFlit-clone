@@ -4,7 +4,7 @@ class CityRepository {
 
     async createCity({ name }) {
         try {
-            const city = await City.createCity({
+            const city = await City.create({
                 name: name
             })
             return city;
