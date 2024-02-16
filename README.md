@@ -109,3 +109,4 @@ npx sequelize db:migrate`
 npx sequelize model:generate --name Airport --attributes name:String,address:String,cityId:integer
 ```
 
+![alt text](image-3.png)
