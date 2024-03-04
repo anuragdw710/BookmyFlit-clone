@@ -110,3 +110,9 @@ npx sequelize model:generate --name Airport --attributes name:String,address:Str
 ```
 
 ![alt text](image-3.png)
+
+
+## other Serices
+- [Auth service](https://github.com/anuragdw710/Auth)
+- [Booking service](https://github.com/anuragdw710/Booking)
+- [Reminder service](https://github.com/anuragdw710/Reminder) 
